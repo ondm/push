@@ -3,7 +3,7 @@
 # 使用方法
 
 ```
-git clone https://github.com/ondm/push.git
+wget https://github.com/ondm/push/blob/main/push.sh
 cd push
 chmod +x push.sh
 nohup sudo ./push.sh &
